@@ -1,0 +1,3 @@
+# Rosalind Challenge: REVC (Complementing a Strand of DNA)
+This repository contains my solution to the **"REVC"** problem from the [Rosalind bioinformatics challenge](https://rosalind.info/problems/revc/).
+This program computes the reverse complement of a DNA string. The order of DNA string `s` is reversed and each nucleotide is replaced with its complement. `'A'` and `'T'` are complements of each other; `'C'` and `'G'` are complements of each other.
