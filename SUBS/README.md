@@ -1,0 +1,3 @@
+# Rosalind Challenge: SUBS (Finding a Motif in DNA)
+This repository contains my solution to the **"SUBS"** problem from the [Rosalind bioinformatics challenge](https://rosalind.info/problems/subs/).
+This program identifies all occurrences of a **substring `t`** within a larger DNA string `s`. A substring is defined as a contiguous sequence of symbols in `s`. Positions are **1-based**, meaning the first symbol of `s` is at position 1. If `t` occurs multiple times in `s`, all starting positions should be reported.

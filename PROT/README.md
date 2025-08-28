@@ -1,0 +1,3 @@
+# Rosalind Challenge: PROT (Translating RNA into Protein)
+This repository contains my solution to the **"PROT"** problem from the [Rosalind bioinformatics challenge](https://rosalind.info/problems/prot/).
+This program translates an **RNA string** into its corresponding **protein string**. RNA strings are composed of the four nucleotides `'A'`, `'U'`, `'C'`, and `'G'`, and are read in **codons** (triplets of nucleotides). Each codon encodes a specific amino acid according to the standard **RNA codon table**, with some codons serving as stop signals.

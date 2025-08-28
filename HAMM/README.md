@@ -1,0 +1,3 @@
+# Rosalind Challenge: HAMM (Computing Point Mutations)
+This repository contains my solution to the **"HAMM"** problem from the [Rosalind bioinformatics challenge](https://rosalind.info/problems/hamm/).
+This program calculates the **Hamming distance** between two DNA strings. The Hamming distance between strings `s` and `t` of equal length, denoted `dH(s, t)`, is defined as the number of positions at which the corresponding symbols differ.  

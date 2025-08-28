@@ -1,0 +1,3 @@
+# Rosalind Challenge: GC (Computing GC Content)
+This repository contains my solution to the **"GC"** problem from the [Rosalind bioinformatics challenge](https://rosalind.info/problems/gc/).
+This program calculates the **GC-content** of DNA strings. The GC-content of a DNA string is the percentage of symbols in the string that are either `'C'` or `'G'`. For example, the GC-content of `"AGCTATAG"` is `37.5%`. Note that the reverse complement of a DNA string has the same GC-content.
